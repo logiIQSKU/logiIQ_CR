@@ -1,1 +1,1 @@
-# logiIQ_CR
+# logiIQclient
